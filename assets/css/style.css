@@ -1,14 +1,20 @@
 
-/* HOMEWORK 5 */
+/* HOMEWORK 5.  Isaac Bayon.  Due 10/3/18 */
 
 body {
-    background-image: url(../images/triviabackground.jpg);
+    background-image: url(../images/snapof.png);
 }
 
 #wrapper {
     background-color: yellow;
     height: 100%;
 }
+
+.instructions {
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif
+
+};
 
 _#quiz-area.startButton, #quiz-area.doneButton {
     width: 350px;
